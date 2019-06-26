@@ -1,0 +1,13 @@
+{
+  "personal_site": "",
+  "skills" : ["php", "joomla", "wordpress", "javascript", "html", "linux"],
+  "cv_url": {
+    "en" : "",
+    "es" : ""
+  },
+  "social": {
+    "linkedin" : "https://www.linkedin.com/in/yoel-villarreal-d%C3%A1vila-b47954136/",
+    "telegram" : "@linuxlover",
+    "facebook" : "https://www.facebook.com/yoel.villarrealdavila"
+  }
+}
